@@ -10,5 +10,5 @@ Classification model to identify engaged users and unengaged users for Churn Red
 4. Assuming an unengaged user is a churned user, now suppose we use your model to identify unengaged users and implement 
    some business actions try to convert them to  engaged users (commonly known as reducing churn)  
 
-  a. How would you set up a test/experiment to check whether we are actually  reducing churn?  
-  b. What metrics and techniques would you use to assess the impact of the business  action? 
+   a. How would you set up a test/experiment to check whether we are actually  reducing churn?  
+   b. What metrics and techniques would you use to assess the impact of the business  action? 
